@@ -1,0 +1,20 @@
+Add Ruby 23769328076234135 $2000
+Add Java 387856293457369624 $1000
+Add Python 47523567895337845 $3000
+Add C++ 86578947638466 $4000
+Charge Ruby $1000
+Charge Java $700
+Charge Python $500
+Charge C++ $300
+Credit Ruby $100
+Credit Java $100
+Credit Python $800
+Credit C++ $200
+Charge Ruby $300
+Charge Java $500
+Charge Python $600
+Charge C++ $900
+Credit Ruby $700
+Credit Java $600
+Credit Python $800
+Credit C++ $100

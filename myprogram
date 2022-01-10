@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require './credit_card_provider'
+
+str = ARGF.read
+ARGF.close
+
+provider = CreditCardProvider.new(str)
+summary = provider.query
+puts summary
